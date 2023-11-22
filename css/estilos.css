@@ -1,5 +1,16 @@
 body {
     text-align: center;
     font-family: "Arial";
-    color: aqua;
+    color: black;
+    text-align: center;
+}
+
+#contenedor {
+    border: 1px solid purple;
+}
+
+#titulo {
+    width: 250 px;
+    color: blueviolet;
+    font-size: medium;
 }
