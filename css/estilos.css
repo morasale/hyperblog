@@ -5,6 +5,19 @@ body {
     text-align: center;
 }
 
+#cabecera {
+    background-color: darkcyan;
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+#legible {
+    color: black;
+    font-weight: 300;
+    font-size: small;
+}
+
 #contenedor {
     border: 1px solid purple;
 }
